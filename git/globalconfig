@@ -1,0 +1,1 @@
+git config --global url."https://<github_username>:<token>@github.com".insteadOf "https://github.com"
